@@ -18,9 +18,7 @@ But I'm always up for new challenges and ready to dive into the unknown! The wor
 I'm super proud of the little Ruby gem I wrote called [**ruby_ipify**](https://github.com/Br0k3nh4nd012/ruby_ipify)! It fetches your public IP, just like that, from the ipify API. Simple, but super handy for devs. Sometimes the best things in life are simple and small! 💡
 
 
-## 🌟 The Projects I Live For
-
-Check out my **pinned projects**, the cool stuff I’m always busy building:
+## 🌟 Fun projects played with 
 
 - **[CodeCurious](https://github.com/Br0k3nh4nd012/codecurious-rails-turbo-tailwind)**  
   Rails + Turbo + Tailwind = Perfection 🔥! Check it out to see how these bad boys work together.
