@@ -1,4 +1,4 @@
-# 👾 Growing with Code: Gokulakrishnan(Br0k3nh4nd012) 🚀
+# Hi, I'm Gokulakrishnan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <img align='right' src="./btm-bare-tree.gif" width="200" height="200">
 <p>I'm Gokulakrishnan, a passionate software engineer with a knack for diving deep into new technologies. I love solving real-world problems, one line of code at a time, and my journey is all about breaking things (and fixing them better) through collaboration, open source, and continuous learning. Let's create cool tech together!<br><br>
