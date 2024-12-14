@@ -10,8 +10,7 @@ When I’m not coding, I’m probably debugging some obscure error, building new
 ![Tools](https://img.shields.io/badge/Tools-Docker,%20PostgreSQL,%20Redis-blue)
 ![Cloud](https://img.shields.io/badge/Cloud-AWS,%20GCP-orange)
 
-But I'm always up for new challenges and ready to dive into the unknown! The world of tech keeps evolving, and I’m exploring new tools and frameworks to keep building cool, efficient solutions. 🌱
-
+Lately, I’ve been diving into **Go**—learning, experimenting, and having a blast with its simplicity and speed.
 
 ## 💎 Cool Thing I Made: **Ruby Ipify Gem**
 
