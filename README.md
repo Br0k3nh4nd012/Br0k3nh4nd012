@@ -17,17 +17,6 @@ Lately, I’ve been diving into **Go**—learning, experimenting, and having a b
 I'm super proud of the little Ruby gem I wrote called [**ruby_ipify**](https://github.com/Br0k3nh4nd012/ruby_ipify)! It fetches your public IP, just like that, from the ipify API. Simple, but super handy for devs. Sometimes the best things in life are simple and small! 💡
 
 
-## 🌟 Fun projects played with 
-
-- **[CodeCurious](https://github.com/Br0k3nh4nd012/codecurious-rails-turbo-tailwind)**  
-  Rails + Turbo + Tailwind = Perfection 🔥! Check it out to see how these bad boys work together.
-
-- **[Sample OLX (Rails)](https://github.com/Br0k3nh4nd012/sampleOLX--ROR)**  
-  OLX Clone in Rails because **who doesn't love classifieds?** 🧑‍💻📲
-
-- **[Inventory Management Client](https://github.com/Br0k3nh4nd012/Inventory-Management-Client)**  
-  Keeping track of your inventory, the React way! ⚙️
-
 ## 🤝 Open-Source Stuff I’ve Contributed To
 
 - **[Terrastories](https://github.com/Br0k3nh4nd012/terrastories)**  
